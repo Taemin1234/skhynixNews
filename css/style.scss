@@ -134,14 +134,14 @@ a {
 .gnb-list {
   width: auto;
   min-width: 460px;
-  margin-left: 3%;
+  margin-left: 2.5%;
 
   ul {
     @extend %flex-start;
   }
 
   li {
-    padding: 0 24px;
+    padding: 0 16px;
     margin-bottom: 20px;
 
     a {
